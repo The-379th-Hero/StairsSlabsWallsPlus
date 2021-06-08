@@ -1,0 +1,21 @@
+{
+	"raplace": false,
+	"values": [
+		"sswplus:oak_wood_slab",
+		"sswplus:spruce_wood_slab",
+		"sswplus:birch_wood_slab",
+		"sswplus:jungle_wood_slab",
+		"sswplus:acacia_wood_slab",
+		"sswplus:dark_oak_wood_slab",
+		"sswplus:crimson_hyphae_slab",
+		"sswplus:warped_hyphae_slab",
+		"sswplus:stripped_oak_wood_slab",
+		"sswplus:stripped_spruce_wood_slab",
+		"sswplus:stripped_birch_wood_slab",
+		"sswplus:stripped_jungle_wood_slab",
+		"sswplus:stripped_acacia_wood_slab",
+		"sswplus:stripped_dark_oak_wood_slab",
+		"sswplus:stripped_crimson_hyphae_slab",
+		"sswplus:stripped_warped_hyphae_slab"
+	]
+}

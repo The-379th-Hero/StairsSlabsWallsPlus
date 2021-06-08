@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:prismarine_wall",
+		"sswplus:prismarine_brick_wall",
+		"sswplus:dark_prismarine_wall",
+		"sswplus:cracked_prismarine_brick_wall"
+	]
+}

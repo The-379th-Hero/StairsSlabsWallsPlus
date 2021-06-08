@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:red_sandstone_stairs",
+		"sswplus:cut_red_sandstone_stairs",
+		"minecraft:smooth_red_sandstone_stairs",
+		"sswplus:red_sandstone_brick_stairs",
+		"sswplus:cracked_red_sandstone_brick_stairs"
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:warped_slab",
+		"sswplus:warped_hyphae_slab",
+		"sswplus:stripped_warped_hyphae_slab"
+	]
+}

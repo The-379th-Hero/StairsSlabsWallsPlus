@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:stone_slab",
+		"sswplus:mossy_stone_slab",
+		"#sswplus:smooth_stone_slabs"
+	]
+}

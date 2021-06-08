@@ -1,0 +1,21 @@
+{
+	"raplace": false,
+	"values": [
+		"sswplus:oak_wood_wall",
+		"sswplus:spruce_wood_wall",
+		"sswplus:birch_wood_wall",
+		"sswplus:jungle_wood_wall",
+		"sswplus:acacia_wood_wall",
+		"sswplus:dark_oak_wood_wall",
+		"sswplus:crimson_hyphae_wall",
+		"sswplus:warped_hyphae_wall",
+		"sswplus:stripped_oak_wood_wall",
+		"sswplus:stripped_spruce_wood_wall",
+		"sswplus:stripped_birch_wood_wall",
+		"sswplus:stripped_jungle_wood_wall",
+		"sswplus:stripped_acacia_wood_wall",
+		"sswplus:stripped_dark_oak_wood_wall",
+		"sswplus:stripped_crimson_hyphae_wall",
+		"sswplus:stripped_warped_hyphae_wall"
+	]
+}

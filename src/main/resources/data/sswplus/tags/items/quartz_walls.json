@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"sswplus:quartz_wall",
+		"sswplus:smooth_quartz_wall",
+		"sswplus:quartz_brick_wall",
+		"sswplus:cracked_quartz_brick_wall"
+	]
+}

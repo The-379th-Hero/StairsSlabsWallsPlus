@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:blackstone_slab",
+		"minecraft:polished_blackstone_slab",
+		"minecraft:polished_blackstone_brick_slab",
+		"sswplus:cracked_polished_blackstone_brick_slab",
+		"sswplus:gilded_blackstone_slab"
+	]
+}

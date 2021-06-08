@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"sswplus:sandstone_bricks",
+		"sswplus:cracked_sandstone_bricks",
+		"sswplus:red_sandstone_bricks",
+		"sswplus:cracked_red_sandstone_bricks"
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		"sswplus:white_glass_slab",
+		"sswplus:orange_glass_slab",
+		"sswplus:magenta_glass_slab",
+		"sswplus:light_blue_glass_slab",
+		"sswplus:yellow_glass_slab",
+		"sswplus:lime_glass_slab",
+		"sswplus:pink_glass_slab",
+		"sswplus:gray_glass_slab",
+		"sswplus:light_gray_glass_slab",
+		"sswplus:cyan_glass_slab",
+		"sswplus:purple_glass_slab",
+		"sswplus:blue_glass_slab",
+		"sswplus:brown_glass_slab",
+		"sswplus:green_glass_slab",
+		"sswplus:red_glass_slab",
+		"sswplus:black_glass_slab"
+	]
+}

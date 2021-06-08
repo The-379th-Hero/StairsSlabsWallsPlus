@@ -1,0 +1,22 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:end_stone_bricks",
+		"minecraft:end_stone_brick_slab",
+		"minecraft:end_stone_brick_stairs",
+		"minecraft:end_stone_brick_wall",
+		"sswplus:cracked_end_stone_bricks",
+		"sswplus:cracked_end_stone_brick_slab",
+		"sswplus:cracked_end_stone_brick_stairs",
+		"sswplus:cracked_end_stone_brick_wall",
+		"sswplus:end_stone_slab",
+		"sswplus:end_stone_stairs",
+		"sswplus:end_stone_wall",
+		"sswplus:obsidian_slab",
+		"sswplus:obsidian_stairs",
+		"sswplus:obsidian_wall",
+		"sswplus:crying_obsidian_slab",
+		"sswplus:crying_obsidian_stairs",
+		"sswplus:crying_obsidian_wall"
+	]
+}

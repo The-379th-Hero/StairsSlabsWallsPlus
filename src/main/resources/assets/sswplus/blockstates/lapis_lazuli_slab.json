@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"type=bottom": {
+			"model": "sswplus:block/lapis_lazuli_slab"
+		},
+		"type=double": {
+			"model": "minecraft:block/lapis_block"
+		},
+		"type=top": {
+			"model": "sswplus:block/lapis_lazuli_slab_top"
+		}
+	}
+}

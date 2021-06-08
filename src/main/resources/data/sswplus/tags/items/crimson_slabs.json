@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:crimson_slab",
+		"sswplus:crimson_hyphae_slab",
+		"sswplus:stripped_crimson_hyphae_slab"
+	]
+}

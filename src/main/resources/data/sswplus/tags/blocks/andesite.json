@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:andesite",
+		"minecraft:polished_andesite",
+		"sswplus:andesite_bricks",
+		"sswplus:cracked_andesite_bricks"
+	]
+}

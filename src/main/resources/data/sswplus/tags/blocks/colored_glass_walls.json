@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		"sswplus:white_glass_wall",
+		"sswplus:orange_glass_wall",
+		"sswplus:magenta_glass_wall",
+		"sswplus:light_blue_glass_wall",
+		"sswplus:yellow_glass_wall",
+		"sswplus:lime_glass_wall",
+		"sswplus:pink_glass_wall",
+		"sswplus:gray_glass_wall",
+		"sswplus:light_gray_glass_wall",
+		"sswplus:cyan_glass_wall",
+		"sswplus:purple_glass_wall",
+		"sswplus:blue_glass_wall",
+		"sswplus:brown_glass_wall",
+		"sswplus:green_glass_wall",
+		"sswplus:red_glass_wall",
+		"sswplus:black_glass_wall"
+	]
+}

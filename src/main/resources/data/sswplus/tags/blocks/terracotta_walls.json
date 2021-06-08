@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"sswplus:terracotta_wall",
+		"#sswplus:colored_terracotta_walls"
+	]
+}

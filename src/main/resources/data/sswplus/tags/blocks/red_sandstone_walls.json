@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:red_sandstone_wall",
+		"sswplus:cut_red_sandstone_wall",
+		"sswplus:smooth_red_sandstone_wall",
+		"sswplus:red_sandstone_brick_wall",
+		"sswplus:cracked_red_sandstone_brick_wall"
+	]
+}

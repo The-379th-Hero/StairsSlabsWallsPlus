@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:acacia_slab",
+		"sswplus:acacia_wood_slab",
+		"sswplus:stripped_acacia_wood_slab"
+	]
+}

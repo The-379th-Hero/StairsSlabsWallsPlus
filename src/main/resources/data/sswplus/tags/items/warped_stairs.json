@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:warped_stairs",
+		"sswplus:warped_hyphae_stairs",
+		"sswplus:stripped_warped_hyphae_stairs"
+	]
+}

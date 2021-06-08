@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"sswplus:end_stone_wall",
+		"minecraft:end_stone_brick_wall",
+		"sswplus:cracked_end_stone_brick_wall"
+	]
+}

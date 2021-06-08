@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:stone_bricks",
+		"minecraft:mossy_stone_bricks",
+		"minecraft:cracked_stone_bricks",
+		"sswplus:cracked_mossy_stone_bricks",
+		"minecraft:chiseled_stone_bricks",
+		"sswplus:mossy_chiseled_stone_bricks",
+		"sswplus:cracked_chiseled_stone_bricks",
+		"sswplus:cracked_mossy_chiseled_stone_bricks",
+		"minecraft:infested_stone_bricks",
+		"minecraft:infested_mossy_stone_bricks",
+		"minecraft:infested_cracked_stone_bricks",
+		"sswplus:infested_cracked_mossy_stone_bricks",
+		"minecraft:infested_chiseled_stone_bricks",
+		"sswplus:infested_mossy_chiseled_stone_bricks",
+		"sswplus:infested_cracked_chiseled_stone_bricks",
+		"sswplus:infested_cracked_mossy_chiseled_stone_bricks"
+	]
+}

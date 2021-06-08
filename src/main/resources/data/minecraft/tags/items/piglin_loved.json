@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"sswplus:gold_slab",
+		"sswplus:gold_stairs",
+		"sswplus:gold_wall",
+		"sswplus:gilded_blackstone_slab",
+		"sswplus:gilded_blackstone_stairs",
+		"sswplus:gilded_blackstone_wall"
+	]
+}

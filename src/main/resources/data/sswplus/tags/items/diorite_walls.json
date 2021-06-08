@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:diorite_wall",
+		"sswplus:polished_diorite_wall",
+		"sswplus:diorite_brick_wall",
+		"sswplus:cracked_diorite_brick_wall"
+	]
+}

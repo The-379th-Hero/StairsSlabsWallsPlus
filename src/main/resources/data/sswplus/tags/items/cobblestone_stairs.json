@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:cobblestone_stairs",
+		"minecraft:mossy_cobblestone_stairs"
+	]
+}

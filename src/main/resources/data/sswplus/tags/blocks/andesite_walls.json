@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:andesite_wall",
+		"sswplus:polished_andesite_wall",
+		"sswplus:andesite_brick_wall",
+		"sswplus:cracked_andesite_brick_wall"
+	]
+}

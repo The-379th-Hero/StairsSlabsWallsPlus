@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:quartz_stairs",
+		"minecraft:smooth_quartz_stairs",
+		"sswplus:quartz_brick_stairs",
+		"sswplus:cracked_quartz_brick_stairs"
+	]
+}

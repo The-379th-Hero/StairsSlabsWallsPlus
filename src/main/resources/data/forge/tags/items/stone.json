@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		"sswplus:granite_bricks",
+		"sswplus:cracked_granite_bricks",
+		"sswplus:diorite_bricks",
+		"sswplus:cracked_diorite_bricks",
+		"sswplus:andesite_bricks",
+		"sswplus:cracked_andesite_bricks",
+		"sswplus:mossy_stone",
+		"sswplus:infested_mossy_stone"
+	]
+}

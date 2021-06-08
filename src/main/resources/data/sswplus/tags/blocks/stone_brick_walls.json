@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:stone_brick_wall",
+		"minecraft:mossy_stone_brick_wall",
+		"sswplus:cracked_stone_brick_wall",
+		"sswplus:cracked_mossy_stone_brick_wall"
+	]
+}

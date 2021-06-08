@@ -1,0 +1,8 @@
+{
+	"type": "annabethscore:sawmill",
+	"ingredient": {
+		"item": "minecraft:dark_oak_wood"
+	},
+	"result": "sswplus:stripped_dark_oak_wood_stairs",
+	"count": 1
+}
