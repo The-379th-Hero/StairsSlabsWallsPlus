@@ -643,12 +643,12 @@ public class SSWPBlocks {
 		QUARTZ_WALL = new ModWallBlock(Blocks.QUARTZ_BLOCK).setRegistryName(SSWPlusMain.MODID, "quartz_wall");
 		SMOOTH_QUARTZ_WALL = new ModWallBlock(Blocks.SMOOTH_QUARTZ).setRegistryName(SSWPlusMain.MODID, "smooth_quartz_wall");
 		QUARTZ_BRICK_SLAB = new ModSlabBlock(Blocks.QUARTZ_BRICKS).setRegistryName(SSWPlusMain.MODID, "quartz_brick_slab");
-		QUARTZ_BRICK_STAIRS = new ModSlabBlock(Blocks.QUARTZ_BRICKS).setRegistryName(SSWPlusMain.MODID, "quartz_brick_stairs");
-		QUARTZ_BRICK_WALL = new ModSlabBlock(Blocks.QUARTZ_BRICKS).setRegistryName(SSWPlusMain.MODID, "quartz_brick_wall");
+		QUARTZ_BRICK_STAIRS = new ModStairsBlock(Blocks.QUARTZ_BRICKS).setRegistryName(SSWPlusMain.MODID, "quartz_brick_stairs");
+		QUARTZ_BRICK_WALL = new ModWallBlock(Blocks.QUARTZ_BRICKS).setRegistryName(SSWPlusMain.MODID, "quartz_brick_wall");
 		CRACKED_QUARTZ_BRICKS = new Block(AbstractBlock.Properties.copy(Blocks.QUARTZ_BRICKS)).setRegistryName(SSWPlusMain.MODID, "cracked_quartz_bricks");
 		CRACKED_QUARTZ_BRICK_SLAB = new ModSlabBlock(CRACKED_QUARTZ_BRICKS).setRegistryName(SSWPlusMain.MODID, "cracked_quartz_brick_slab");
-		CRACKED_QUARTZ_BRICK_STAIRS = new ModSlabBlock(CRACKED_QUARTZ_BRICKS).setRegistryName(SSWPlusMain.MODID, "cracked_quartz_brick_stairs");
-		CRACKED_QUARTZ_BRICK_WALL = new ModSlabBlock(CRACKED_QUARTZ_BRICKS).setRegistryName(SSWPlusMain.MODID, "cracked_quartz_brick_wall");
+		CRACKED_QUARTZ_BRICK_STAIRS = new ModStairsBlock(CRACKED_QUARTZ_BRICKS).setRegistryName(SSWPlusMain.MODID, "cracked_quartz_brick_stairs");
+		CRACKED_QUARTZ_BRICK_WALL = new ModWallBlock(CRACKED_QUARTZ_BRICKS).setRegistryName(SSWPlusMain.MODID, "cracked_quartz_brick_wall");
 		
 		CUT_SANDSTONE_STAIRS = new ModStairsBlock(Blocks.CUT_SANDSTONE).setRegistryName(SSWPlusMain.MODID, "cut_sandstone_stairs");
 		CUT_SANDSTONE_WALL = new ModWallBlock(Blocks.CUT_SANDSTONE).setRegistryName(SSWPlusMain.MODID, "cut_sandstone_wall");
