@@ -12,6 +12,7 @@ import net.minecraft.block.SlabBlock;
 import net.minecraft.block.StairsBlock;
 import net.minecraft.block.WallBlock;
 import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.tags.ItemTags;
 import net.minecraft.util.ActionResultType;
@@ -93,10 +94,18 @@ public class EventHandler {
 	
 	@SubscribeEvent
 	public static void setFurnaceFuelBurnTime(FurnaceFuelBurnTimeEvent event) {
-		ItemStack stack = event.getItemStack();
+		Item item = event.getItemStack().getItem();
 		
-		if (SSWPTags.ItemTagList.WOODEN_WALLS.contains(stack.getItem()) && !ItemTags.NON_FLAMMABLE_WOOD.contains(stack.getItem())) {
+		if (SSWPTags.ItemTagList.WOODEN_WALLS.contains(item.getItem()) && !ItemTags.NON_FLAMMABLE_WOOD.contains(item.getItem())) {
 			event.setBurnTime(300);
+		}
+		
+		if (item == Item.byBlock(SSWPBlocks.COAL_SLAB)) {
+			event.setBurnTime(8000);
+		}
+		
+		if (item == Item.byBlock(SSWPBlocks.COAL_STAIRS) || item == Item.byBlock(SSWPBlocks.COAL_WALL)) {
+			event.setBurnTime(16000);
 		}
 	}
 }

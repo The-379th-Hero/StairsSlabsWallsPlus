@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:light_blue_stained_glass"
+		}
+	},
+	"result": {
+		"item": "sswplus:light_blue_glass_stairs",
+		"count": 4
+	}
+}

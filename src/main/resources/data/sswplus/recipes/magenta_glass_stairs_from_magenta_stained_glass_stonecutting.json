@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:magenta_stained_glass"
+	},
+	"result": "sswplus:magenta_glass_stairs",
+	"count": 1
+}

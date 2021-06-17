@@ -1445,7 +1445,7 @@ public class SSWPBlocks {
 		
 		registerNetheriteItem(ifr, NETHERITE_SLAB, ItemGroup.TAB_BUILDING_BLOCKS);
 		registerNetheriteItem(ifr, NETHERITE_STAIRS, ItemGroup.TAB_BUILDING_BLOCKS);
-		registerNetheriteItem(ifr, NETHERITE_WALL, ItemGroup.TAB_BUILDING_BLOCKS);
+		registerNetheriteItem(ifr, NETHERITE_WALL, ItemGroup.TAB_DECORATIONS);
 		
 		registerBlockItemDe(ifr, QUARTZ_WALL);
 		registerBlockItemDe(ifr, SMOOTH_QUARTZ_WALL);
