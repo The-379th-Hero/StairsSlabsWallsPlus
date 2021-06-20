@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+		"bottom": "sswplus:block/cracked_red_sandstone_bricks",
+		"top": "sswplus:block/cracked_red_sandstone_bricks",
+		"side": "sswplus:block/cracked_red_sandstone_bricks"
+	}
+}

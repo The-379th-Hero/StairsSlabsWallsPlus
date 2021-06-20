@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/stairs",
+	"textures": {
+		"bottom": "sswplus:block/mossy_stone",
+		"top": "sswplus:block/mossy_stone",
+		"side": "sswplus:block/mossy_stone"
+	}
+}
