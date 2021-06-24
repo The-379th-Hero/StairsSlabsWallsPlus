@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:granite"
+	},
+	"result": "sswplus:granite_brick_wall",
+	"count": 1
+}

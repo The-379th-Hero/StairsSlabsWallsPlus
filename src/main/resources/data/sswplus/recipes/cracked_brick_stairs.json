@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "sswplus:cracked_bricks"
+		}
+	},
+	"result": {
+		"item": "sswplus:cracked_brick_stairs",
+		"count": 4
+	}
+}

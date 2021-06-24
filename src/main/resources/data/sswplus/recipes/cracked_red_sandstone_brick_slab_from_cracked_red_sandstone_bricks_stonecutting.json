@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "sswplus:cracked_red_sandstone_bricks"
+	},
+	"result": "sswplus:cracked_red_sandstone_brick_slab",
+	"count": 2
+}

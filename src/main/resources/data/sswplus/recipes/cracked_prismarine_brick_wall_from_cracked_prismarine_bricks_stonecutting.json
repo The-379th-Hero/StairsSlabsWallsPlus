@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "sswplus:cracked_prismarine_bricks"
+	},
+	"result": "sswplus:cracked_prismarine_brick_wall",
+	"count": 1
+}

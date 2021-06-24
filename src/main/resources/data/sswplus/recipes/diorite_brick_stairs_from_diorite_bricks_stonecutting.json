@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "sswplus:diorite_bricks"
+	},
+	"result": "sswplus:diorite_brick_stairs",
+	"count": 1
+}

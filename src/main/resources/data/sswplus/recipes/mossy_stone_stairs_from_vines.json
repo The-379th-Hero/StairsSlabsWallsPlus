@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:vine"
+		},
+		{
+			"item": "minecraft:stone_stairs"
+		}
+	],
+	"result": {
+		"item": "sswplus:mossy_stone_stairs",
+		"count": 1
+	}
+}
